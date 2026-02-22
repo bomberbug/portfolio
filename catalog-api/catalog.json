@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "email": "21f2000140@ds.study.iitm.ac.in",
+    "version": "58796bea"
+  },
+  "products": [
+    { "id": 1, "name": "Classic T-Shirt", "category": "clothing", "price": 1999.99, "stock": 10, "rating": 4.5 },
+    { "id": 2, "name": "Denim Jacket", "category": "clothing", "price": 3499.99, "stock": 12, "rating": 4.6 },
+    { "id": 3, "name": "Sports Hoodie", "category": "clothing", "price": 2499.99, "stock": 30, "rating": 4.7 },
+
+    { "id": 4, "name": "Wireless Mouse", "category": "electronics", "price": 999.99, "stock": 50, "rating": 4.4 },
+    { "id": 5, "name": "Bluetooth Headphones", "category": "electronics", "price": 2999.99, "stock": 20, "rating": 4.3 },
+    { "id": 6, "name": "Mechanical Keyboard", "category": "electronics", "price": 4499.99, "stock": 15, "rating": 4.8 },
+    { "id": 7, "name": "USB-C Charger", "category": "electronics", "price": 1499.99, "stock": 40, "rating": 4.2 },
+    { "id": 8, "name": "Smart Watch", "category": "electronics", "price": 7999.99, "stock": 18, "rating": 4.6 },
+
+    { "id": 9, "name": "Fiction Novel", "category": "books", "price": 499.99, "stock": 60, "rating": 4.1 },
+    { "id": 10, "name": "Science Textbook", "category": "books", "price": 899.99, "stock": 25, "rating": 4.3 },
+    { "id": 11, "name": "Cooking Guide", "category": "books", "price": 699.99, "stock": 35, "rating": 4.0 },
+    { "id": 12, "name": "Biography Book", "category": "books", "price": 799.99, "stock": 20, "rating": 4.4 },
+
+    { "id": 13, "name": "Running Shoes", "category": "footwear", "price": 4999.99, "stock": 22, "rating": 4.5 },
+    { "id": 14, "name": "Leather Boots", "category": "footwear", "price": 5999.99, "stock": 14, "rating": 4.6 },
+    { "id": 15, "name": "Sneakers", "category": "footwear", "price": 3999.99, "stock": 30, "rating": 4.4 },
+
+    { "id": 16, "name": "Office Chair", "category": "furniture", "price": 6999.99, "stock": 8, "rating": 4.2 },
+    { "id": 17, "name": "Study Table", "category": "furniture", "price": 8999.99, "stock": 6, "rating": 4.5 },
+    { "id": 18, "name": "Bookshelf", "category": "furniture", "price": 4999.99, "stock": 10, "rating": 4.3 },
+
+    { "id": 19, "name": "Protein Powder", "category": "health", "price": 1999.99, "stock": 40, "rating": 4.6 },
+    { "id": 20, "name": "Yoga Mat", "category": "health", "price": 999.99, "stock": 50, "rating": 4.4 },
+    { "id": 21, "name": "Dumbbells Set", "category": "health", "price": 2999.99, "stock": 15, "rating": 4.7 },
+
+    { "id": 22, "name": "Wall Clock", "category": "home", "price": 799.99, "stock": 25, "rating": 4.2 },
+    { "id": 23, "name": "LED Lamp", "category": "home", "price": 1499.99, "stock": 35, "rating": 4.5 },
+    { "id": 24, "name": "Curtains Set", "category": "home", "price": 2499.99, "stock": 12, "rating": 4.3 }
+  ],
+  "aggregations": {
+    "clothing": {
+      "count": 3,
+      "inventoryValue": 109816.44
+    }
+  }
+}
