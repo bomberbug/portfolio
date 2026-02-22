@@ -4,36 +4,36 @@
     "version": "58796bea"
   },
   "products": [
-    { "id": "prod-58796bea-1", "name": "Classic T-Shirt", "category": "clothing", "price": 1999.99, "stock": 10, "rating": 4.5 },
-    { "id": "prod-58796bea-2", "name": "Denim Jacket", "category": "clothing", "price": 3499.99, "stock": 12, "rating": 4.6 },
-    { "id": "prod-58796bea-3", "name": "Sports Hoodie", "category": "clothing", "price": 2499.99, "stock": 30, "rating": 4.7 },
+    { "id": "prod-58796bea-001", "name": "Classic T-Shirt", "category": "clothing", "price": 1999.99, "stock": 10, "rating": 4.5 },
+    { "id": "prod-58796bea-002", "name": "Denim Jacket", "category": "clothing", "price": 3499.99, "stock": 12, "rating": 4.6 },
+    { "id": "prod-58796bea-003", "name": "Sports Hoodie", "category": "clothing", "price": 2499.99, "stock": 30, "rating": 4.7 },
 
-    { "id": "prod-58796bea-4", "name": "Wireless Mouse", "category": "electronics", "price": 999.99, "stock": 50, "rating": 4.4 },
-    { "id": "prod-58796bea-5", "name": "Bluetooth Headphones", "category": "electronics", "price": 2999.99, "stock": 20, "rating": 4.3 },
-    { "id": "prod-58796bea-6", "name": "Mechanical Keyboard", "category": "electronics", "price": 4499.99, "stock": 15, "rating": 4.8 },
-    { "id": "prod-58796bea-7", "name": "USB-C Charger", "category": "electronics", "price": 1499.99, "stock": 40, "rating": 4.2 },
-    { "id": "prod-58796bea-8", "name": "Smart Watch", "category": "electronics", "price": 7999.99, "stock": 18, "rating": 4.6 },
+    { "id": "prod-58796bea-004", "name": "Wireless Mouse", "category": "electronics", "price": 999.99, "stock": 50, "rating": 4.4 },
+    { "id": "prod-58796bea-005", "name": "Bluetooth Headphones", "category": "electronics", "price": 2999.99, "stock": 20, "rating": 4.3 },
+    { "id": "prod-58796bea-006", "name": "Mechanical Keyboard", "category": "electronics", "price": 4499.99, "stock": 15, "rating": 4.8 },
+    { "id": "prod-58796bea-007", "name": "USB-C Charger", "category": "electronics", "price": 1499.99, "stock": 40, "rating": 4.2 },
+    { "id": "prod-58796bea-008", "name": "Smart Watch", "category": "electronics", "price": 7999.99, "stock": 18, "rating": 4.6 },
 
-    { "id": "prod-58796bea-9", "name": "Fiction Novel", "category": "books", "price": 499.99, "stock": 60, "rating": 4.1 },
-    { "id": "prod-58796bea-10", "name": "Science Textbook", "category": "books", "price": 899.99, "stock": 25, "rating": 4.3 },
-    { "id": "prod-58796bea-11", "name": "Cooking Guide", "category": "books", "price": 699.99, "stock": 35, "rating": 4.0 },
-    { "id": "prod-58796bea-12", "name": "Biography Book", "category": "books", "price": 799.99, "stock": 20, "rating": 4.4 },
+    { "id": "prod-58796bea-009", "name": "Fiction Novel", "category": "books", "price": 499.99, "stock": 60, "rating": 4.1 },
+    { "id": "prod-58796bea-010", "name": "Science Textbook", "category": "books", "price": 899.99, "stock": 25, "rating": 4.3 },
+    { "id": "prod-58796bea-011", "name": "Cooking Guide", "category": "books", "price": 699.99, "stock": 35, "rating": 4.0 },
+    { "id": "prod-58796bea-012", "name": "Biography Book", "category": "books", "price": 799.99, "stock": 20, "rating": 4.4 },
 
-    { "id": "prod-58796bea-13", "name": "Running Shoes", "category": "footwear", "price": 4999.99, "stock": 22, "rating": 4.5 },
-    { "id": "prod-58796bea-14", "name": "Leather Boots", "category": "footwear", "price": 5999.99, "stock": 14, "rating": 4.6 },
-    { "id": "prod-58796bea-15", "name": "Sneakers", "category": "footwear", "price": 3999.99, "stock": 30, "rating": 4.4 },
+    { "id": "prod-58796bea-013", "name": "Running Shoes", "category": "footwear", "price": 4999.99, "stock": 22, "rating": 4.5 },
+    { "id": "prod-58796bea-014", "name": "Leather Boots", "category": "footwear", "price": 5999.99, "stock": 14, "rating": 4.6 },
+    { "id": "prod-58796bea-015", "name": "Sneakers", "category": "footwear", "price": 3999.99, "stock": 30, "rating": 4.4 },
 
-    { "id": "prod-58796bea-16", "name": "Office Chair", "category": "furniture", "price": 6999.99, "stock": 8, "rating": 4.2 },
-    { "id": "prod-58796bea-17", "name": "Study Table", "category": "furniture", "price": 8999.99, "stock": 6, "rating": 4.5 },
-    { "id": "prod-58796bea-18", "name": "Bookshelf", "category": "furniture", "price": 4999.99, "stock": 10, "rating": 4.3 },
+    { "id": "prod-58796bea-016", "name": "Office Chair", "category": "furniture", "price": 6999.99, "stock": 8, "rating": 4.2 },
+    { "id": "prod-58796bea-017", "name": "Study Table", "category": "furniture", "price": 8999.99, "stock": 6, "rating": 4.5 },
+    { "id": "prod-58796bea-018", "name": "Bookshelf", "category": "furniture", "price": 4999.99, "stock": 10, "rating": 4.3 },
 
-    { "id": "prod-58796bea-19", "name": "Protein Powder", "category": "health", "price": 1999.99, "stock": 40, "rating": 4.6 },
-    { "id": "prod-58796bea-20", "name": "Yoga Mat", "category": "health", "price": 999.99, "stock": 50, "rating": 4.4 },
-    { "id": "prod-58796bea-21", "name": "Dumbbells Set", "category": "health", "price": 2999.99, "stock": 15, "rating": 4.7 },
+    { "id": "prod-58796bea-019", "name": "Protein Powder", "category": "health", "price": 1999.99, "stock": 40, "rating": 4.6 },
+    { "id": "prod-58796bea-020", "name": "Yoga Mat", "category": "health", "price": 999.99, "stock": 50, "rating": 4.4 },
+    { "id": "prod-58796bea-021", "name": "Dumbbells Set", "category": "health", "price": 2999.99, "stock": 15, "rating": 4.7 },
 
-    { "id": "prod-58796bea-22", "name": "Wall Clock", "category": "home", "price": 799.99, "stock": 25, "rating": 4.2 },
-    { "id": "prod-58796bea-23", "name": "LED Lamp", "category": "home", "price": 1499.99, "stock": 35, "rating": 4.5 },
-    { "id": "prod-58796bea-24", "name": "Curtains Set", "category": "home", "price": 2499.99, "stock": 12, "rating": 4.3 }
+    { "id": "prod-58796bea-022", "name": "Wall Clock", "category": "home", "price": 799.99, "stock": 25, "rating": 4.2 },
+    { "id": "prod-58796bea-023", "name": "LED Lamp", "category": "home", "price": 1499.99, "stock": 35, "rating": 4.5 },
+    { "id": "prod-58796bea-024", "name": "Curtains Set", "category": "home", "price": 2499.99, "stock": 12, "rating": 4.3 }
   ],
   "aggregations": {
     "clothing": {
